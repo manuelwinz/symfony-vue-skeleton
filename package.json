@@ -13,7 +13,7 @@
         "eslint-loader": "^3.0.2",
         "eslint-plugin-vue": "^5.2.3",
         "humps": "^2.0.1",
-        "node-sass": "^4.13.0",
+        "node-sass": "^4.13.1",
         "regenerator-runtime": "^0.13.2",
         "sass-loader": "^7.0.1",
         "vue": "^2.6.10",
